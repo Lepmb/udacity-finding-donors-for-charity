@@ -16,7 +16,7 @@ It is recommended to install [Anaconda](https://www.continuum.io/downloads), a p
 
 ### Code
 
-All files relevant for this project can be found in the `finding_donors/´ folder. The code template is provided in the `finding_donors.ipynb` notebook file. The included `visuals.py` Python file and the `census.csv` dataset file are required for this project as well. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended to be manipulated. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+All files relevant for this project can be found in the `finding_donors/` folder. The code template is provided in the `finding_donors.ipynb` notebook file. The included `visuals.py` Python file and the `census.csv` dataset file are required for this project as well. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended to be manipulated. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
 
 ### Run
 
